@@ -1,0 +1,9 @@
+com\evaluacion\callcenter\CallcenterApplication.class
+com\evaluacion\callcenter\dispatcher\AsyncDispatcher.class
+com\evaluacion\callcenter\model\Call.class
+com\evaluacion\callcenter\model\DelayedCall.class
+com\evaluacion\callcenter\model\EmployeePosition.class
+com\evaluacion\callcenter\model\Reason.class
+com\evaluacion\callcenter\model\CallResult.class
+com\evaluacion\callcenter\model\Employee.class
+com\evaluacion\callcenter\model\EmployeeState.class
